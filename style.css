@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #0776A0;
+}
+
+header img {
+    font-family: Peralta;
+    font-size: 36px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 48px;
+}
+
+header a {
+    border-radius: 10px;
+    font-size: 36px;
+    text-decoration: none;
+    background-color: #FFB600;
+    padding: 2px 5px 2px 5px;
+}
+
+footer {
+    background-color: #024C68;
+    color: white;
+    padding: 15px 0px 15px 60px;
+}
+.p_9 {
+    font-size: 36px;
+    color: #FF2C00;
+    font-family: Montserrat;
+}
+
+
